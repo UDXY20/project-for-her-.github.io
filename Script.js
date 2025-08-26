@@ -109,3 +109,6 @@ setInterval(() => {
 document.getElementById('continueBtn').addEventListener('click', () => {
     window.location.href = 'video.html';
 });
+
+<script src="path/to/my-module.js" type="module"></script>
+
